@@ -1,0 +1,7 @@
+opencv-python
+time
+pyttsx3
+threading
+speech_recognition
+mediapipe
+ultralytics

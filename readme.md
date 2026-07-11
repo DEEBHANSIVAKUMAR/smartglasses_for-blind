@@ -1,0 +1,1 @@
+this code wants to upload in a rasperry pi to run as the blind people may access via this
